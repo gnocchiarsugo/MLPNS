@@ -1,2 +1,2 @@
 # MLPNS
-Machine Learning For Physics and the Natural Sciences
+Machine Learning for Physics and the Natural Sciences
